@@ -2,8 +2,10 @@
 # Digital Literacy Portfolio
 
 Name: Soumya Dipta Roy  
-Reg No: 25BHI10111 
-Branch: B.Tech (CSE Health Informatics)  
+Reg No: 25BHI10111
+
+Branch: B.Tech (CSE Health Informatics) 
+
 Year: 1st Year  
 
 ## Project Overview
